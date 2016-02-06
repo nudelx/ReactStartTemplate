@@ -3,7 +3,7 @@
 
 ```
 	> git clone git@github.com:nudelx/ReactStartTemplate.git
-	> cd ReduxSimpleStarter
+	> cd ReactStartTemplate
 	> npm install
 	> npm start
 ```
